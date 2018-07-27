@@ -1,0 +1,62 @@
+#######################################
+# Syntax Coloring Map For OneWire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCP39F521	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin KEYWORD2
+read_SystemStatus KEYWORD2
+read_SystemVersion  KEYWORD2
+read_VRMS KEYWORD2
+read_IRMS KEYWORD2
+read_PowerFactor  KEYWORD2
+read_Freq KEYWORD2
+read_Active KEYWORD2
+read_Reactive KEYWORD2
+read_Apparent KEYWORD2
+read_Imp_Act_Ener KEYWORD2
+read_Exp_Act_Ener KEYWORD2
+read_Imp_React_Ener KEYWORD2
+read_Exp_React_Ener KEYWORD2
+set_PGAGain KEYWORD2
+read_PGAGain  KEYWORD2
+read_Gain_VRMS  KEYWORD2
+read_Gain_IRMS  KEYWORD2
+read_Gain_ActiveP KEYWORD2
+read_Gain_ReactiveP KEYWORD2
+set_Gain_VRMS KEYWORD2
+set_Gain_IRMS KEYWORD2
+set_Gain_ActiveP  KEYWORD2
+set_Gain_ReactiveP  KEYWORD2
+read_OffsetCurrent  KEYWORD2
+read_OffsetActive KEYWORD2
+read_OffsetReactive KEYWORD2
+set_OffsetCurrent KEYWORD2
+set_OffsetActive  KEYWORD2
+set_OffsetReactive  KEYWORD2
+read_Range  KEYWORD2
+set_V_Range KEYWORD2
+set_I_Range KEYWORD2
+set_P_Range KEYWORD2
+read_Phase_Comp KEYWORD2
+set_Phase_Comp  KEYWORD2
+read_ApparentPowerDivisor KEYWORD2
+read_EnergyAcum_Control KEYWORD2
+set_EnergyAcum_Control  KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
